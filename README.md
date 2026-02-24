@@ -1,5 +1,11 @@
 # Lets-Code
 
+<h3 align="center">🚀 LetsCode Progress</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20Completed-01-green">
+</p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d8ff40c-dda0-4261-bc22-f67c2e4f83a8" width="300">
 </p>

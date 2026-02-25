@@ -3,7 +3,7 @@
 <h3 align="center">🚀 LetsCode Progress</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20Completed-01-green">
+  <img src="https://img.shields.io/badge/Days%20Completed-03-green">
 </p>
 
 <p align="center">
